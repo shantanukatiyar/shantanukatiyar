@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Shantanu+Katiyar;Web+Developer;DSA+Learner;Building+Real+Projects&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Shantanu+Katiyar;Web+Developer;DSA+Learner;Building+Real+Projects&center=true&size=35">
 </h1>
 
 <p align="center">
@@ -13,22 +12,24 @@
 
 ## 🌟 About Me
 
-Hi! I'm Shantanu, an **aspiring Web Developer from India**.
-I focus on **building real-world projects**, improving my skills every day, and solving problems creatively.
+Hi! I'm **Shantanu Katiyar**, an aspiring **Web Developer** from India.
+I focus on **building real-world projects**, learning continuously, and solving problems creatively.
 
 > **“Consistency beats motivation every time”**
 
-I enjoy creating projects that are **practical, intuitive, and helpful** for users.
+I enjoy creating projects that are **practical, user-friendly, and intuitive**.
 
 ---
 
-## 🧠 My Skills
+## 🧠 Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/React-blueviolet?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-lightgreen?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
@@ -36,7 +37,7 @@ I enjoy creating projects that are **practical, intuitive, and helpful** for use
 
 ---
 
-## 💼 Featured Project
+## 💼 Projects
 
 ### 🔹 Smart Study Guard
 
@@ -45,11 +46,16 @@ A **web app to improve focus and study discipline**.
 **Features:**
 
 * Track study time
-* Reduce distractions
+* Focus mode for distraction-free study
 * Simple UI & intuitive design
 
 **Tech Used:** HTML, CSS, JavaScript
 🌐 Live Demo: (Add your Vercel link here)
+
+### 🔹 Other Projects
+
+* Portfolio Website – Showcasing skills & projects
+* To-Do App – Task management with clean UI
 
 ---
 
@@ -74,27 +80,18 @@ A **web app to improve focus and study discipline**.
 
 ## 🌱 Currently Learning
 
-* Advanced JavaScript & frontend frameworks
+* Advanced JavaScript & React
 * Data Structures & Algorithms
-* Responsive Web Design
-* Deployment workflows
+* Responsive Web Design & UX
+* Deployment & DevOps basics
 
 ---
 
-## 🚀 What Makes Me Different
-
-* Focus on **learning by doing**
-* Creating **practical and helpful projects**
-* **Consistent growth** through building & learning
-* Open to **new tools & frameworks**
-
----
-
-## 🎯 Goals for 2026
+## 🚀 Goals for 2026
 
 * Build **5+ real-world projects**
-* Stay **consistent on GitHub**
 * Master **modern web technologies**
+* Maintain **consistent GitHub activity**
 * Land a **Web Development Internship**
 
 ---
