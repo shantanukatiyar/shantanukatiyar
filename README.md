@@ -106,4 +106,3 @@ A productivity-based web application designed to improve focus and study discipl
 <p align="center">
   ⭐ <b>Consistency + Discipline = Growth</b>
 </p>
-
