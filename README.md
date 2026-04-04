@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shantanu Katiyar</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Shantanu+Katiyar;Web+Developer;DSA+Learner;Building+Real+Projects&center=true&size=30">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;DSA+Learner;Building+Projects;Consistency+Over+Motivation&center=true&width=600&height=50">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Internship-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Experience-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Internship-green?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Experience-Learning-blue?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=maps"/>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-Hello! I'm Shantanu, an **aspiring Web Developer from India**.
-I focus on **building real-world projects**, learning continuously, and solving problems.
+Hi! I'm Shantanu, an **aspiring Web Developer** from India.
+I focus on **building real-world projects**, improving my skills every day, and solving problems creatively.
 
 > **“Consistency beats motivation every time”**
 
-I enjoy creating tools that are **practical, intuitive, and helpful** for real users.
+I enjoy creating projects that are **practical, intuitive, and help users in real life**.
 
 ---
 
@@ -45,21 +44,21 @@ A **web app to improve focus and study discipline**.
 
 **Features:**
 
-* Track study time
+* Track study time and focus sessions
 * Reduce distractions
-* Simple UI & intuitive design
+* Intuitive and simple UI
 
 **Tech Used:** C++
-
 
 ---
 
 ## 🏆 Achievements & Activities
 
-* Member of **CodeSpace Club**
-* Completed certifications in programming & web development
-* Participated in coding challenges
-* Building projects to showcase learning
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeSpace%20Club-Member-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Certifications-Completed-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coding%20Challenges-Active-blue?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -117,9 +116,11 @@ A **web app to improve focus and study discipline**.
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/shantanu-katiyar
-* GitHub: https://github.com/shantanukatiyar
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shantanu-katiyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shantanukatiyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://(AddYourPortfolio)"><img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+</p>
 
 ---
 
