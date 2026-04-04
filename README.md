@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shantanu Katiyar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+Developer;DSA+Learner;Building+Projects;Future+Full+Stack+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+Developer;DSA+Learner;Building+Real+World+Projects;Consistent+Learner&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Student & Aspiring Developer from India
-* 💻 Focused on **Web Development**
-* 🧠 Currently learning **DSA + JavaScript deeply**
-* ⚡ I love building useful & real-world projects
-* 🎯 Goal: Become a strong developer & get a great internship
+* 🎓 Student & Aspiring Web Developer from India
+* 💻 Focused on building real-world web applications
+* 🧠 Currently learning Data Structures & Algorithms + JavaScript
+* 🎯 Goal: Become a skilled developer and secure a great internship
+
+---
+
+## ⚡ About Me (Quick Facts)
+
+* 💡 I enjoy building useful and practical projects
+* 🔥 I believe in consistency over motivation
+* 📈 I focus on improving my skills every single day
 
 ---
 
@@ -23,16 +30,16 @@
 * C++
 * JavaScript
 
-### 🌐 Web
+### 🌐 Web Development
 
 * HTML
 * CSS
 
 ### ⚙️ Tools & Platforms
 
-* Git
-* GitHub
-* Vercel
+* Git (version control)
+* GitHub (project management & collaboration)
+* Vercel (deployment)
 
 ---
 
@@ -42,9 +49,17 @@
 
 A productivity-based web application designed to improve focus and study discipline.
 
-🔧 Tech Used: HTML, CSS, JavaScript
 🚀 Helps users stay consistent and avoid distractions
+📌 Focuses on productivity and better study habits
 🌐 Live Demo: (add your Vercel link here)
+
+---
+
+## 🚀 What Makes Me Different
+
+* 💡 I focus on building useful projects instead of just learning theory
+* 🔥 I stay consistent and keep improving daily
+* 🧠 Strong interest in problem-solving and development
 
 ---
 
@@ -59,31 +74,30 @@ A productivity-based web application designed to improve focus and study discipl
 
 ## 🏆 Achievements & Involvement
 
-* 🎓 Member of **CodeSpace Club**
-* 📚 Consistently learning and improving
-* 🚀 Building projects and sharing progress
+* 🎓 Member of CodeSpace Club
+* 📚 Actively learning and building in public
 
 ---
 
 ## 🌱 Currently Working On
 
 * 📌 Strengthening DSA
-* 📌 Building more web projects
+* 📌 Building real-world web projects
 * 📌 Improving frontend development skills
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals for 2026
 
 * 🚀 Build 5+ high-quality projects
-* 📈 Maintain GitHub consistency
+* 📈 Stay consistent on GitHub
 * 💼 Secure a Web Development Internship
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/shantanu-katiyar
+* LinkedIn: (add your link here)
 * Portfolio: (add when ready)
 * GitHub: https://github.com/shantanukatiyar
 
