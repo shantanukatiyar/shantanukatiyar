@@ -13,12 +13,12 @@
 
 ## 🌟 About Me
 
-Hi! I'm Shantanu, an **aspiring Web Developer** from India.
+Hi! I'm Shantanu, an **aspiring Web Developer from India**.
 I focus on **building real-world projects**, improving my skills every day, and solving problems creatively.
 
 > **“Consistency beats motivation every time”**
 
-I enjoy creating projects that are **practical, intuitive, and help users in real life**.
+I enjoy creating projects that are **practical, intuitive, and helpful** for users.
 
 ---
 
@@ -44,11 +44,12 @@ A **web app to improve focus and study discipline**.
 
 **Features:**
 
-* Track study time and focus sessions
+* Track study time
 * Reduce distractions
-* Intuitive and simple UI
+* Simple UI & intuitive design
 
-**Tech Used:** C++
+**Tech Used:** HTML, CSS, JavaScript
+🌐 Live Demo: (Add your Vercel link here)
 
 ---
 
@@ -67,22 +68,6 @@ A **web app to improve focus and study discipline**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shantanukatiyar&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanukatiyar&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/shantanukatiyar/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 👀 Visitors Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/shantanukatiyar/count.svg"/>
 </p>
 
 ---
@@ -117,7 +102,7 @@ A **web app to improve focus and study discipline**.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shantanu-katiyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/(AddYourLinkedIn)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/shantanukatiyar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://(AddYourPortfolio)"><img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 </p>
