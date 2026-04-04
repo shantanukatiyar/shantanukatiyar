@@ -83,7 +83,7 @@ A productivity-based web application designed to improve focus and study discipl
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link)
+* LinkedIn: www.linkedin.com/in/shantanu-katiyar
 * Portfolio: (add when ready)
 * GitHub: https://github.com/shantanukatiyar
 
