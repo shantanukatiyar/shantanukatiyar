@@ -1,45 +1,41 @@
 <h1 align="center">Hi 👋, I'm Shantanu Katiyar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+Developer;DSA+Learner;Building+Real+World+Projects;Consistent+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;DSA+Learner;Building+Projects;Consistency+Over+Motivation&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
-
-* 🎓 Student & Aspiring Web Developer from India
-* 💻 Focused on building real-world web applications
-* 🧠 Currently learning Data Structures & Algorithms + JavaScript
-* 🎯 Goal: Become a skilled developer and secure a great internship
-
----
-
-## ⚡ About Me (Quick Facts)
-
-* 💡 I enjoy building useful and practical projects
-* 🔥 I believe in consistency over motivation
-* 📈 I focus on improving my skills every single day
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Internship-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🌟 About Me
 
-### 💻 Languages
+Hello! I'm Shantanu, an **aspiring Web Developer** from India.
+I focus on **building real-world projects**, learning continuously, and solving problems.
 
-* C++
-* JavaScript
+> **“Consistency beats motivation every time”**
 
-### 🌐 Web Development
+I enjoy creating tools that are **practical, intuitive, and helpful** for real users.
 
-* HTML
-* CSS
+---
 
-### ⚙️ Tools & Platforms
+## 🧠 My Skills
 
-* Git (version control)
-* GitHub (project management & collaboration)
-* Vercel (deployment)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+</p>
 
 ---
 
@@ -47,62 +43,88 @@
 
 ### 🔹 Smart Study Guard
 
-A productivity-based web application designed to improve focus and study discipline.
+A **web app to improve focus and study discipline**.
 
-🚀 Helps users stay consistent and avoid distractions
-📌 Focuses on productivity and better study habits
+**Features:**
+
+* Track study time
+* Reduce distractions
+* Simple UI & intuitive design
+
+**Tech Used:** HTML, CSS, JavaScript
 🌐 Live Demo: (add your Vercel link here)
 
 ---
 
-## 🚀 What Makes Me Different
+## 🏆 Achievements & Activities
 
-* 💡 I focus on building useful projects instead of just learning theory
-* 🔥 I stay consistent and keep improving daily
-* 🧠 Strong interest in problem-solving and development
+* Member of **CodeSpace Club**
+* Completed certifications in programming & web development
+* Participated in coding challenges
+* Building projects to showcase learning
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanukatiyar&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanukatiyar&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanukatiyar&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanukatiyar&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Involvement
+## 🌱 Currently Learning
 
-* 🎓 Member of CodeSpace Club
-* 📚 Actively learning and building in public
+* Advanced JavaScript & front-end frameworks
+* Data Structures & Algorithms
+* Responsive Web Design
+* Deployment workflows
 
 ---
 
-## 🌱 Currently Working On
+## 🚀 What Makes Me Different
 
-* 📌 Strengthening DSA
-* 📌 Building real-world web projects
-* 📌 Improving frontend development skills
+* Focus on **learning by doing**
+* Creating **practical and helpful projects**
+* **Consistent growth** through building & learning
+* Open to **new tools & frameworks**
 
 ---
 
 ## 🎯 Goals for 2026
 
-* 🚀 Build 5+ high-quality projects
-* 📈 Stay consistent on GitHub
-* 💼 Secure a Web Development Internship
+* Build **5+ real-world projects**
+* Stay **consistent on GitHub**
+* Master **modern web technologies**
+* Land a **Web Development Internship**
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: (add your link here)
-* Portfolio: (add when ready)
 * GitHub: https://github.com/shantanukatiyar
+* Portfolio: (add later)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/shantanukatiyar/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Visitors Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shantanukatiyar/count.svg"/>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Consistency + Discipline = Growth</b>
+⭐ <b>Consistency + Discipline = Growth</b>
 </p>
