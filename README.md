@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;DSA+Learner;Building+Projects;Consistency+Over+Motivation&center=true&width=600&height=50">
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20for%20Internship-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Experience-Learning-blue?style=for-the-badge"/>
@@ -16,7 +14,7 @@
 
 ## 🌟 About Me
 
-Hello! I'm Shantanu, an **aspiring Web Developer** from India.
+Hello! I'm Shantanu, an **aspiring Web Developer from India**.
 I focus on **building real-world projects**, learning continuously, and solving problems.
 
 > **“Consistency beats motivation every time”**
@@ -51,8 +49,8 @@ A **web app to improve focus and study discipline**.
 * Reduce distractions
 * Simple UI & intuitive design
 
-**Tech Used:** HTML, CSS, JavaScript
-🌐 Live Demo: (add your Vercel link here)
+**Tech Used:** C++
+
 
 ---
 
@@ -74,9 +72,25 @@ A **web app to improve focus and study discipline**.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/shantanukatiyar/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Visitors Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shantanukatiyar/count.svg"/>
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
-* Advanced JavaScript & front-end frameworks
+* Advanced JavaScript & frontend frameworks
 * Data Structures & Algorithms
 * Responsive Web Design
 * Deployment workflows
@@ -103,25 +117,9 @@ A **web app to improve focus and study discipline**.
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link here)
+* LinkedIn: www.linkedin.com/in/shantanu-katiyar
 * GitHub: https://github.com/shantanukatiyar
-* Portfolio: (add later)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/shantanukatiyar/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 👀 Visitors Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/shantanukatiyar/count.svg"/>
-</p>
+  
 
 ---
 
