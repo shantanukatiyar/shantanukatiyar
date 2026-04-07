@@ -84,7 +84,7 @@ A productivity-based web application designed to improve focus and study discipl
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/shantanu-katiyar
-* Portfolio: (add when ready)
+* Portfolio: https://shantanukatiyar-portfolio.netlify.app/
 * GitHub: https://github.com/shantanukatiyar
 
 ---
