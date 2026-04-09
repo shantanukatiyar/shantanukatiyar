@@ -14,6 +14,10 @@
   <a href="https://shantanukatiyar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
+  <a href="https://github.com/shantanukatiyar">
+    <img src="https://img.shields.io/badge/Leetcode-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
 </p>
 
 ---
@@ -48,12 +52,12 @@
 ## 💼 Featured Projects
 
 ### 🔹 Smart Study Guard
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-DodgerBlue)](https://github.com/shantanukatiyar/Smart-Study-Guard)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-DodgerBlue)](https://github.com/shantanukatiyar/Smart-Study-Gurad)  
 **Tech Used:** C++
 **Description:** A productivity web app to help users stay focused, avoid distractions, and build study discipline.
 
 ### 🔹 Mynra Clone
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-DodgerBlue)](https://github.com/shantanukatiyar/Mynra-Clone)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-DodgerBlue)](https://github.com/shantanukatiyar/myntra-clone)  
 **Tech Used:** HTML, CSS, JavaScript  
 **Description:** Clone of Mynra e-commerce website to practice UI & functionality.
 
