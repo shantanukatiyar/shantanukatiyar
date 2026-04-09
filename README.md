@@ -14,8 +14,8 @@
   <a href="https://shantanukatiyar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/shantanukatiyar">
-    <img src="https://img.shields.io/badge/Leetcode-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://leetcode.com/shantanukatiyar">
+    <img src="https://img.shields.io/badge/Leetcode-0AFFC2?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
 </p>
